@@ -1,6 +1,6 @@
 #coding=utf-8
 import os, sys, platform
-#os.system('xdg-open https://facebook.com/groups/302474258349320/')
+os.system('xdg-open https://facebook.com/groups/302474258349320/')
 os.system('git pull')
  
 bit = platform.architecture()[0]
